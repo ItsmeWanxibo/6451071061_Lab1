@@ -26,7 +26,6 @@ Họ tên: Đinh Công Vinh Quang – MSSV: 6451071061 – Môn: Khai thác dữ
 | | Bai13 | Online Retail: bước 12 (FP-Growth, so sánh với Apriori) |
 | Bài 5a (Trang 45) | Bai14 | Germany, min_sup 5%, min_conf 50% |
 | Bài 6 (Trang 45) | Bai15 | Groceries: Apriori vs FP-Growth, min_sup 0.01%-0.1% |
-| (bổ sung, không có trong mẫu) | Bai16 | France, min_sup 7%, min_conf 70% (Bài 5b) |
 
 Không có notebook cho Bài tập thêm VI.1 (vnexpress) vì không có file dữ liệu và mẫu báo cáo không có mục này.
 
